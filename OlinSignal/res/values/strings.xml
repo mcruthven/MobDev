@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">OlinSignal</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="sig">signal</string>
+    <string name="location">location</string>
+    <string name="delete">delete</string>
+
+</resources>

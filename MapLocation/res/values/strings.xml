@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">MapLocation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="gps">GPS</string>
+    <string name="disable">Disable Location</string>
+    <string name="network">Network</string>
+    <string name="start">Start</string>
+
+</resources>
