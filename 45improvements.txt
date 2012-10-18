@@ -1,0 +1,16 @@
+Summary of Improvements: from 4 to 5
+
+for 5
+
+I made it so the overlay could be saved and loaded,
+so when the map is loaded for a second time, the previous 
+signal map would be loaded. I added the map image to the 
+front screen. I fixed the color, so it would vary with the 
+strength and made it somewhat understandable.
+Homework5 powerpoint shows the current state
+
+4 contained the location and signal retrieval, the 
+webview, the overlay, and the first activity. The signal
+to color translation did not work.
+
+Homework4 shows the state at homework 4
